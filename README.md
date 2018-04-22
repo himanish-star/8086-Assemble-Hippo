@@ -1,6 +1,6 @@
 # 8086-Assemble-Hippo
 
-#List of micro programs
+## List of micro programs
  - (Q1) 33-find no. Of uppercase lowercase and digits entered as input in a string
  - (Q2) 36-count number of digits in a number
  - (Q3) 37-display name at center of screen in yellow color, Background color green, also blink the name

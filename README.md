@@ -19,7 +19,7 @@
  - [ ] (Q16) 56- find the number of consonants in a string 
  - [x] (Q17) 54- find x ^y using subroutine
  - [ ] (Q18) 50-find the Count of even digits and count of odd digits in a number
- - [ ] (Q19) 61 check if a number is palindrome or not (max up to 4 digits)
+ - [x] (Q19) 61 check if a number is palindrome or not (max up to 4 digits)
  - [x] (Q20) 63 Count maximum number of continuous zeros in an array
  - [ ] (Q21) 53-count no of zeros in array and find sum of rest of the array
  - [ ] (Q22) 49- capitalize the first letter of each word in a string

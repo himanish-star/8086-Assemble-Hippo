@@ -7,7 +7,7 @@
  - [x] (Q4) 38-Convert a given number (maximum length:3) into words
  - [x] (Q5) 39-Find sum of digits of a number of any length
  - [x] (Q6) 57-HCF of two numbers
- - [ ] (Q7) 58- lcm of two numbers
+ - [x] (Q7) 58- lcm of two numbers
  - [ ] (Q8) 59-frequency of occurrence of vowels in a string
  - [x] (Q9) 52-reversing a given string
  - [ ] (Q10) 35-no. of odd and even numbers in an array and sum of them

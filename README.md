@@ -3,7 +3,7 @@
 ## List of micro programs
  - [x] (Q1) 33-find no. Of uppercase lowercase and digits entered as input in a string
  - [x] (Q2) 36-count number of digits in a number
- - [ ] (Q3) 37-display name at center of screen in yellow color, Background color green, also blink the name
+ - [x] (Q3) 37-display name at center of screen in yellow color, Background color green, also blink the name
  - [ ] (Q4) 38-Convert a given number (maximum length:3) into words
  - [ ] (Q5) 39-Find sum of digits of a number of any length
  - [x] (Q6) 57-HCF of two numbers

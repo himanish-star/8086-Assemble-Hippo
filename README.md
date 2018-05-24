@@ -1,10 +1,10 @@
 # 8086-Assemble-Hippo
 
-## List of micro programs
+## List of micro programs (checked one's have been solved)
  - [x] (Q1) 33-find no. Of uppercase lowercase and digits entered as input in a string
  - [x] (Q2) 36-count number of digits in a number
  - [x] (Q3) 37-display name at center of screen in yellow color, Background color green, also blink the name
- - [ ] (Q4) 38-Convert a given number (maximum length:3) into words
+ - [x] (Q4) 38-Convert a given number (maximum length:3) into words
  - [ ] (Q5) 39-Find sum of digits of a number of any length
  - [x] (Q6) 57-HCF of two numbers
  - [ ] (Q7) 58- lcm of two numbers

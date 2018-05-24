@@ -6,7 +6,7 @@
  - [ ] (Q3) 37-display name at center of screen in yellow color, Background color green, also blink the name
  - [ ] (Q4) 38-Convert a given number (maximum length:3) into words
  - [ ] (Q5) 39-Find sum of digits of a number of any length
- - [ ] (Q6) 57-HCF of two numbers
+ - [x] (Q6) 57-HCF of two numbers
  - [ ] (Q7) 58- lcm of two numbers
  - [ ] (Q8) 59-frequency of occurrence of vowels in a string
  - [x] (Q9) 52-reversing a given string

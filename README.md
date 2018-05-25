@@ -8,7 +8,7 @@
  - [x] (Q5) 39-Find sum of digits of a number of any length
  - [x] (Q6) 57-HCF of two numbers
  - [x] (Q7) 58- lcm of two numbers
- - [ ] (Q8) 59-frequency of occurrence of vowels in a string
+ - [x] (Q8) 59-frequency of occurrence of vowels in a string
  - [x] (Q9) 52-reversing a given string
  - [ ] (Q10) 35-no. of odd and even numbers in an array and sum of them
  - [ ] (Q11) 65 - nine numbers, there are 4 numbers in pairs of two, find the odd one (eg. 4 3 2 1 1 2 3 4 9)

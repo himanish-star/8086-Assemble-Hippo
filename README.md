@@ -24,3 +24,12 @@
  - [ ] (Q21) 53-count no of zeros in array and find sum of rest of the array
  - [ ] (Q22) 49- capitalize the first letter of each word in a string
  - [ ] (Q23) 55- Find the number of digits in a number and sum of digits at even and odd places in that number.
+
+## Extra questions of COE1 practical
+ - [x] Find if a number is prime or not(note: number should be less than 100)
+ - [ ] No. Of Set bits
+ - [ ] Sorting
+ - [ ] Multiply 2 numbers
+ - [ ] Average of n numbers
+ - [ ] BCD to Binary
+ - [ ] Binary to BCD	

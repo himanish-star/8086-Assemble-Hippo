@@ -11,7 +11,7 @@
  - [x] (Q8) 59-frequency of occurrence of vowels in a string
  - [x] (Q9) 52-reversing a given string
  - [ ] (Q10) 35-no. of odd and even numbers in an array and sum of them
- - [ ] (Q11) 65 - nine numbers, there are 4 numbers in pairs of two, find the odd one (eg. 4 3 2 1 1 2 3 4 9)
+ - [x] (Q11) 65 - nine numbers, there are 4 numbers in pairs of two, find the odd one (eg. 4 3 2 1 1 2 3 4 9)
  - [ ] (Q12) 47- Input a string and find the number of white spaces and special characters in the steing
  - [ ] (Q13) 64 - Find the sum of digits of a 2 digit number until the sum is reduced to a single digit number
  - [ ] (Q14) 51- take a string and reverse only the second half of the string

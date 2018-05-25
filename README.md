@@ -26,10 +26,10 @@
  - [ ] (Q23) 55- Find the number of digits in a number and sum of digits at even and odd places in that number.
 
 ## Extra questions of COE1 practical
- - [x] Find if a number is prime or not(note: number should be less than 100)
- - [ ] No. Of Set bits
- - [ ] Sorting
- - [ ] Multiply 2 numbers
- - [ ] Average of n numbers
- - [ ] BCD to Binary
- - [ ] Binary to BCD	
+ - [x] 1. Find if a number is prime or not(note: number should be less than 100)
+ - [ ] 2. No. Of Set bits
+ - [ ] 3. Sorting
+ - [ ] 4. Multiply 2 numbers
+ - [ ] 5. Average of n numbers
+ - [ ] 6. BCD to Binary
+ - [ ] 7. Binary to BCD	
